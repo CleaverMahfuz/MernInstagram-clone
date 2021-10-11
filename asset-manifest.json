@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mern-instagram/static/css/main.95e2e444.chunk.css",
+    "main.js": "/mern-instagram/static/js/main.5c632665.chunk.js",
+    "main.js.map": "/mern-instagram/static/js/main.5c632665.chunk.js.map",
+    "runtime-main.js": "/mern-instagram/static/js/runtime-main.e28fd56b.js",
+    "runtime-main.js.map": "/mern-instagram/static/js/runtime-main.e28fd56b.js.map",
+    "static/js/2.e959960d.chunk.js": "/mern-instagram/static/js/2.e959960d.chunk.js",
+    "static/js/2.e959960d.chunk.js.map": "/mern-instagram/static/js/2.e959960d.chunk.js.map",
+    "static/js/3.02ce3146.chunk.js": "/mern-instagram/static/js/3.02ce3146.chunk.js",
+    "static/js/3.02ce3146.chunk.js.map": "/mern-instagram/static/js/3.02ce3146.chunk.js.map",
+    "index.html": "/mern-instagram/index.html",
+    "static/css/main.95e2e444.chunk.css.map": "/mern-instagram/static/css/main.95e2e444.chunk.css.map",
+    "static/js/2.e959960d.chunk.js.LICENSE.txt": "/mern-instagram/static/js/2.e959960d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e28fd56b.js",
+    "static/js/2.e959960d.chunk.js",
+    "static/css/main.95e2e444.chunk.css",
+    "static/js/main.5c632665.chunk.js"
+  ]
+}
