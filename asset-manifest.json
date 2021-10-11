@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/mern-instagram/static/css/main.95e2e444.chunk.css",
-    "main.js": "/mern-instagram/static/js/main.5c632665.chunk.js",
-    "main.js.map": "/mern-instagram/static/js/main.5c632665.chunk.js.map",
-    "runtime-main.js": "/mern-instagram/static/js/runtime-main.e28fd56b.js",
-    "runtime-main.js.map": "/mern-instagram/static/js/runtime-main.e28fd56b.js.map",
-    "static/js/2.e959960d.chunk.js": "/mern-instagram/static/js/2.e959960d.chunk.js",
-    "static/js/2.e959960d.chunk.js.map": "/mern-instagram/static/js/2.e959960d.chunk.js.map",
-    "static/js/3.02ce3146.chunk.js": "/mern-instagram/static/js/3.02ce3146.chunk.js",
-    "static/js/3.02ce3146.chunk.js.map": "/mern-instagram/static/js/3.02ce3146.chunk.js.map",
-    "index.html": "/mern-instagram/index.html",
-    "static/css/main.95e2e444.chunk.css.map": "/mern-instagram/static/css/main.95e2e444.chunk.css.map",
-    "static/js/2.e959960d.chunk.js.LICENSE.txt": "/mern-instagram/static/js/2.e959960d.chunk.js.LICENSE.txt"
+    "main.css": "/MernInstagram-clone/static/css/main.95e2e444.chunk.css",
+    "main.js": "/MernInstagram-clone/static/js/main.5c632665.chunk.js",
+    "main.js.map": "/MernInstagram-clone/static/js/main.5c632665.chunk.js.map",
+    "runtime-main.js": "/MernInstagram-clone/static/js/runtime-main.4509e991.js",
+    "runtime-main.js.map": "/MernInstagram-clone/static/js/runtime-main.4509e991.js.map",
+    "static/js/2.e959960d.chunk.js": "/MernInstagram-clone/static/js/2.e959960d.chunk.js",
+    "static/js/2.e959960d.chunk.js.map": "/MernInstagram-clone/static/js/2.e959960d.chunk.js.map",
+    "static/js/3.02ce3146.chunk.js": "/MernInstagram-clone/static/js/3.02ce3146.chunk.js",
+    "static/js/3.02ce3146.chunk.js.map": "/MernInstagram-clone/static/js/3.02ce3146.chunk.js.map",
+    "index.html": "/MernInstagram-clone/index.html",
+    "static/css/main.95e2e444.chunk.css.map": "/MernInstagram-clone/static/css/main.95e2e444.chunk.css.map",
+    "static/js/2.e959960d.chunk.js.LICENSE.txt": "/MernInstagram-clone/static/js/2.e959960d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e28fd56b.js",
+    "static/js/runtime-main.4509e991.js",
     "static/js/2.e959960d.chunk.js",
     "static/css/main.95e2e444.chunk.css",
     "static/js/main.5c632665.chunk.js"
